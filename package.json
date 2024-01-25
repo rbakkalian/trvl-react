@@ -1,7 +1,7 @@
 {
   "name": "react-website",
   "version": "0.1.0",
-  "homepage": "https://{rbakkalian}.github.io/{Web-Dev-Workshop-Project}",
+  "homepage": "https://rbakkalian.github.io/Web-Dev-Workshop-Project",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
